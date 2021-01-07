@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/Form/Form.css"],"names":[],"mappings":"AAAA,YAEE,aAAc,CACd,kBACF","file":"main.e3f5f32d.chunk.css","sourcesContent":["label,\ninput {\n  display: block;\n  margin-bottom: 15px;\n}\n"]}
